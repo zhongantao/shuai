@@ -1,1 +1,2 @@
-today,we start to git
+today,we start to git.
+git is a version control.
